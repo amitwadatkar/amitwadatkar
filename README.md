@@ -2,8 +2,7 @@
 
 Senior Software Engineer at **Microsoft** (Redmond), working on fraud detection for
 Microsoft Ads. I own the path end-to-end: offline data pipelines → real-time online
-scoring (P95 < 8 ms at high QPS) → dashboards, alerts, and on-call health. Recently
-led a team of 6 taking our offline fraud-scoring pipeline online across 6 codebases.
+scoring → dashboards, alerts, and on-call health. 
 
 I build **AI-native engineering workflows**: automated PR-review agents with
 codebase-specific logic, Claude skills/agents and MCP servers, and a RAG-based
